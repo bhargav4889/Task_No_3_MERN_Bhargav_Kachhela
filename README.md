@@ -13,7 +13,7 @@
 
 Then Go to Main Project Code 
    ```bash
-   cd theme-app
+   cd news-api-app
 ```
 
  Install node modules 
